@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **MERN stack projects**
-- 🌱 Learning: **TypeScript, DSA, System Design**
+- 🌱 Learning: **Next.js, DSA**
 - 💬 Ask me about **Node.js, Express, MongoDB, React.js, REST APIs**
 - 📫 Reach me at: **shivamkumar8171396919@email.com**
 - 🧠 I enjoy solving coding problems and building real-world apps
